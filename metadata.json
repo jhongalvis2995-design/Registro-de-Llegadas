@@ -1,0 +1,17 @@
+{
+  "name": "Registro Llelgada Colaborador de Seguridad",
+  "short_name": "ODS&SCAN",
+  "description": "Sistema avanzado de control de asistencia mediante QR para seguridad privada con analítica de retardos y exportación de datos.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
